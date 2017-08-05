@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Fusion](https://github.com/Boostorg/Fusion) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Fusion%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Fusion%3Abincrafters).
 
 ## For Users: Use this package
 
