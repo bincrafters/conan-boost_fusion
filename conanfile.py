@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.69.0@bincrafters/stable")
 
 class BoostFusionConan(base.BoostBaseConan):
     name = "boost_fusion"
+    version = "1.69.0"
     url = "https://github.com/bincrafters/conan-boost_fusion"
     lib_short_names = ["fusion"]
     header_only_libs = ["fusion"]
